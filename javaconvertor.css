@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+    color: powderblue;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.box{
+    height: 300px;
+    width: 400px;
+    background-color: plum;
+    position: relative;
+    left: 550px;
+    top: 50px; 
+    border-radius: 20px;
+}
+.main{
+    position: relative;
+    top: 40px;
+} 
+/* .main2{
+    position: relative;
+    bottom: 300px; 
+    right: 10px; */
